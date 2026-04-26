@@ -3,7 +3,7 @@ title: JLTR
 ---
 Welcome to [Reiwa's](https://reiwa.ca) Japanese Language Theory Reference (JLTR). This website is also available in [Japanese](https://nihongo.reiwa.ca/ja).
 
-This site is designed to let you explore [[Japanese language theory]] to better understand how grammar patterns are formed and used, how kanji are written and structured, how the three Japanese writing systems combine and interact with each other, how pronunciation affects reading and understanding and how [...], among others. 
+This site is designed to let you explore [[Japanese language theory]] to better understand how grammar patterns are formed and used, how kanji are written and structured, how the three Japanese writing systems combine and interact with each other, how pronunciation affects reading and understanding and how [...], among others.
 
 This site provides comprehensive theory coverage (JLPT-mapped where relevant) including non-standard but important structures as well as comparisons, usage rules and nuance notes.
 
@@ -11,11 +11,11 @@ This site provides comprehensive theory coverage (JLPT-mapped where relevant) in
 
 > [!check] We're working on it...
 > This website is a work in progress and is updated regularly.
-> 
+>
 > Want to discuss the content provided here? Is something missing or wrong?
 > Please feel free to [check out the GitHub repo](https://github.com/rbstrachan/jltr) or [get in touch](mailto:ross@reiwa.ca)! 
 
-%% 
+%%
 notes
 - where should okurigana go? in the hiragana folder? not as a file or folder but as a section in another note somewhere?
 
@@ -161,7 +161,7 @@ tags (create pages for them?)
 - context-sensitive
 %%
 
-%% 
+%%
 REFERENCES USED
 - https://wasabi-jpn.com/magazine/japanese-grammar/wasabis-online-japanese-grammar-reference/
 - [japanese particle table](https://wasabi-jpn.com/magazine/japanese-grammar/japanese-particle-table/?lang=en) (perhaps also available in jp?)
