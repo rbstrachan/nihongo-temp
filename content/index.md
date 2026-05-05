@@ -1,11 +1,11 @@
 ---
-title: JLTR
+title: Welcome!
 ---
-Welcome to [Reiwa's](https://reiwa.ca) Japanese Language Theory Reference (JLTR). This website is also available in [Japanese](https://nihongo.reiwa.ca/ja).
+Welcome to [Reiwa's](https://reiwa.ca) **Japanese Theory Reference Library** (JTRL). This website is also available in [Français](https://nihongo.reiwa.ca/fr) and [日本語](https://nihongo.reiwa.ca/ja).
 
 This site is designed to let you explore [[Japanese language theory]] to better understand how grammar patterns are formed and used, how kanji are written and structured, how the three Japanese writing systems combine and interact with each other, how pronunciation affects reading and understanding and how [...], among others.
 
-This site provides comprehensive theory coverage (JLPT-mapped where relevant) including non-standard but important structures as well as comparisons, usage rules and nuance notes.
+This site provides comprehensive theory coverage ([[JLPT]]-mapped where relevant) including non-standard but important structures as well as comparisons, usage rules and nuance notes.
 
 **This website does not teach you how to learn Japanese, please do not attempt to use it to do so.**
 
@@ -13,11 +13,13 @@ This site provides comprehensive theory coverage (JLPT-mapped where relevant) in
 > This website is a work in progress and is updated regularly.
 >
 > Want to discuss the content provided here? Is something missing or wrong?
-> Please feel free to [check out the GitHub repo](https://github.com/rbstrachan/jltr) or [get in touch](mailto:ross@reiwa.ca)! 
+> Please feel free to [check out the GitHub repo](https://github.com/rbstrachan/jltr) or [get in touch](mailto:ross@reiwa.ca)!
 
 %%
 notes
 - where should okurigana go? in the hiragana folder? not as a file or folder but as a section in another note somewhere?
+
+add kotoba bot font images to reference folder
 
 to be added
 
@@ -34,6 +36,7 @@ as of yet unknown placement
 keigo
 - keigo
 - sonkeigo
+- kenjougo
 - teineigo
 
 tags (create pages for them?)
@@ -159,6 +162,127 @@ tags (create pages for them?)
 - boundary
 - not-interchangeable
 - context-sensitive
+%%
+
+%% AI SUGGESTION 1
+Japanese Language Theory Reference Library
+├── index.html (Home: Overview, search bar, quick links)
+├── glossary.html (Cross-site terms: mora, rendaku, etc.)
+└── phonology/
+    ├── index.html (Overview: Mora system, why it matters)
+    ├── vowels-consonants.html (Harmony, restrictions, /n/ exception)
+    ├── rendaku.html (Sequential voicing rules)
+    └── pitch-accent.html (Tokyo rules, dialects, word-level drops)
+├── orthography/
+    ├── index.html (Writing systems overview)
+    ├── stroke-order.html (General rules + exceptions)
+    ├── scripts.html (Hiragana/katakana/kanji roles, history)
+    └── conventions.html (Okurigana, furigana, collation)
+├── morphology/
+    ├── index.html (Agglutination basics)
+    ├── verbs.html (Ichidan/godaan conjugations, derivations)
+    ├── adjectives.html (I/adjectives, na/adjectives)
+    └── readings.html (On'yomi/kun'yomi, suppletion)
+├── syntax-grammar/
+    ├── index.html (SOV, topic-prominence)
+    ├── particles.html (Wa/ga/others, standardized usage)
+    ├── sentence-structure.html (Scrambling, relativization, anaphora)
+    └── connectors.html (Te-forms, conditionals)
+└── semantics-pragmatics-advanced/
+    ├── index.html (Polysemy, evidentials)
+    ├── keigo.html (Sonkeigo/kenjōgo/teineigo rules)
+    ├── dialects.html (Phonology/syntax variations)
+    ├── typology.html (Pro-drop, head-final features)
+    └── discourse.html (Cohesion, post-posing)
+    typology
+
+AI SUGGESTION 2
+Japanese Language Theory Reference Library
+├── index.html (Site overview, search bar, theory intro)
+├── about.html (Mission, how to use)
+├── glossary.html (All terms: mora, rendaku, on'yomi, wa-particle, etc.)
+└── phonology/ (Sound system: mora, pitch for listening theory)
+    ├── index.html (Overview: Pitch language vs stress)
+    ├── mora-timing.html (Mora as unit, why rhythm differs)
+    ├── vowels.html (System, devoicing rules)
+    ├── consonants.html (Geminates, /n/ coda, restrictions)
+    ├── rendaku.html (Voicing in compounds, exceptions)
+    ├── pitch-accent.html (Lexical accent, Tokyo/Standard rules)
+    ├── pitch-dialects.html (Kyoto/others variations)
+    ├── prosody.html (Intonation, phrasal tones, F0 normalization)
+    ├── listening-theory.html (Prosodic cues in comprehension, boundary tones)
+    └── phonetics.html (Allophones, gemination)
+├── orthography/ (Writing rules: scripts, strokes)
+    ├── index.html (Mixed system rationale)
+    ├── hiragana.html (Native inflection roles)
+    ├── katakana.html (Gairaigo/emphasis)
+    ├── kanji.html (Semantic/phonetic compounds)
+    ├── stroke-order.html (5 principles + exceptions)
+    ├── okurigana.html (Inflection marking)
+    ├── furigana.html (Usage conventions)
+    ├── collation.html (Gojūon, dictionary order)
+    ├── historical.html (Kana origins, rōmaji)
+    └── typography.html (Vertical/horizontal, line-breaking)
+├── morphology/ (Word formation: agglutination)
+    ├── index.html (Agglutinative vs fusional)
+    ├── parts-of-speech.html (Overview)
+    ├── nouns.html (No plural/inflection)
+    ├── pronouns.html (Zero anaphora)
+    ├── adjectives.html (I/na classes)
+    ├── verbs.html (Godan/ichidan, irregulars)
+    │   └── conjugations.html (Full paradigms: plain/polite)
+    ├── auxiliaries.html (Aru/iru, suru)
+    ├── counters.html (Classifiers rules)
+    ├── particles.html (Case/postpositions)
+    ├── derivations.html (Causative/passive)
+    └── readings.html (On/kun/jukuji, joyo/hyōgai)
+├── syntax/ (Sentence structure: SOV flexible)
+    ├── index.html (Head-final, topic-prominent)
+    ├── word-order.html (Scrambling rules)
+    ├── subjects-topics.html (Ga/wa distinction)
+    ├── case.html (Ni/de particles)
+    ├── negation.html ( Nai-forms, scope)
+    ├── tense-aspect.html (Ta/ru progression)
+    ├── modality.html (Rashii/bai)
+    ├── relativization.html (No pronouns)
+    ├── passives.html (Direct/indirect)
+    ├── causatives.html (Saseru syntax)
+    ├── conditionals.html (Tara/ba/to)
+    ├── comparatives.html (Yori, hodo)
+    └── extraction.html (Islands, wh-questions)
+├── semantics/ (Meaning: context-driven)
+    ├── index.html (Polysemy resolution)
+    ├── logophoricity.html (Viewpoint/reflexives)
+    ├── evidentials.html (Rashii/kara hearsay)
+    ├── honorifics-keigo.html (Sonkeigo/kenjōgo/teineigo)
+    ├── transitivity.html (Alternations)
+    ├── nominalizers.html (No koto)
+    └── idioms.html (Semantic opacity)
+├── pragmatics/ (Usage: indirectness)
+    ├── index.html (Politeness/implicature)
+    ├── speech-acts.html (Requests/apologies)
+    ├── discourse-markers.html (Ne/yo/sa)
+    ├── turn-taking.html (Backchannels)
+    ├── implicature.html (Scalar/contextual)
+    └── sociolinguistics.html (Gender/register variations)
+├── reading-theory/ (Kanji/text comprehension)
+    ├── index.html (Recognition vs recall)
+    ├── kanji-recognition.html (Contextual cues)
+    ├── compound-reading.html (Predictive heuristics)
+    ├── speed-reading.html (Skimming strategies, natives)
+    ├── disambiguation.html (Homographs)
+    └── eye-movement.html (Saccades in Japanese text)
+├── acquisition/ (Theoretical: L1/L2 rules)
+    ├── index.html (Stages, universals)
+    ├── l1-acquisition.html (Milestones: phonology first)
+    └── l2-theory.html (Transfer/interference)
+└── advanced/ (Dialects/typology)
+    ├── index.html (Beyond standard)
+    ├── dialects.html (Kansai/tohoku phon/syn)
+    ├── typology.html (Pro-drop, agglutinative traits)
+    ├── historical.html (Old/middle Japanese changes)
+    ├── processing.html (Sentence comprehension models)
+    └── exceptions.html (Common rule-breakers)
 %%
 
 %%
